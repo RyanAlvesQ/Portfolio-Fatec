@@ -13,7 +13,7 @@
 
 <b>Link do repositório:</b> <a href="https://github.com/JulioL2001/projeto-integrador-2022-1---FATEC-DSM">Impulse Team</a>
 <br><br>
-<img src="./docs/impulse.jpg" width="100px" height="100px" align="center" alt="Logo do grupo Impulse Team" border-radius="50">
+<img src="./docs/Impulselogo.png" width="250px" height="130px" align="center" alt="Logo do grupo Impulse Team" border-radius="50">
 <br><br>
 <b>Cliente:</b>Cliente interno da FATEC, professor Fabrício Galende 
 <br>
@@ -27,11 +27,6 @@
 
 <p align="justify">A solução proposta foi o desenvolvimento de um sistema web que permitisse a abertura de solicitações de serviços de TI e a avaliação dos serviços prestados pelos técnicos. O sistema foi desenvolvido utilizando a linguagem de programação Python, o framework web Flask e o banco de dados MySQL.</p>
 
-Imagem da página de relatórios do administrador:
-<br>
-<img src="./docs/relatorio.gif" width="576px" height="324px" align="center" alt="Página de relatórios do administrador">
-<br>
-
 ### <b>Tecnologias utilizadas</b>
 
 <ul>
@@ -44,7 +39,7 @@ Imagem da página de relatórios do administrador:
 
 ### <b>Contribuições pessoais</b>
 
-<p align="justify">Desempenhei o papel de Product Owner, sendo responsável por gerenciar o backlog do projeto e a das sprints, dividi as tasks entre os membros do grupo baseado na prioridade e na dificuldade de cada uma, e também ajudei os membros do grupo com as tasks que eles tinham dificuldade como na criação de rotas e a conexão com o banco de dados. Realizei as documentações do projeto como o `README.md` , backlog, modelagem do banco de dados.</p>
+<p align="justify">Desempenhei o papel de Product Owner, sendo responsável por gerenciar o backlog do projeto e a das sprints, dividi as tasks entre os membros do grupo baseado na prioridade e na dificuldade de cada uma, executei tasks como criação do banco de dados e a conexão com o banco de dados. Realizei as documentações do projeto como o backlog e modelagem do banco de dados.</p>
 
 ### <b> Hard Skills </b>
 
@@ -52,9 +47,9 @@ Imagem da página de relatórios do administrador:
 <li><b>Flask: </b>Aprendi a criar rotas, a renderizar templates</li>
 <li><b>MySQL: </b>Aprendi a modelar o banco de dados e a manipular dados</li>
 <li><b>Trello: </b>Aprendi a gerenciar tarefas</li>
-<li><b>Git: </b>Aprendi a criar repositórios, clonar repositórios, criar branches, fazer commits e pushs, readme.md</li>
-<li><b>Documentação: </b>Aprendi a criar documentação de projetos, como o README.md, modelagem do banco de dados, backlog</li>
-<li><b>Metodos ágeis: </b>Aprendi a trabalhar com metodologias ágeis</li>
+<li><b>Git: </b>Aprendi a criar repositórios, clonar repositórios, criar branches, fazer commits e pushs e versionamento de codigo.</li>
+<li><b>Documentação: </b>Aprendi a criar documentação de projetos, modelagem do banco de dados e backlog</li>
+<li><b>Metodos ágeis: </b>Aprendi a trabalhar com metodologias ágeis (SCRUM)</li>
 </ul>
 
 ### <b> Soft Skills </b>
@@ -68,9 +63,9 @@ Imagem da página de relatórios do administrador:
 
 ## 2º Semestre - 2022.2
 
-<b>Link do repositório:</b><a href="https://github.com/The-Seven-DSM/Send.me-Documentacao-2022-2">TheSeven</a>
+<b>Link do repositório:</b><a href="https://github.com/MidNight-Tecnology/API-MidAll-2022.2">MidNight-Tecnology</a>
 <br><br>
-<img src="./docs/the_seven.jpg" width="100px" height="100px" align="center" alt="Logo do grupo TheSeven" border-radius="50">
+<img src="./docs/midlogo.png" width="250px" height="130px" align="center" alt="Logo do grupo TheSeven" border-radius="50">
 <br><br>
 <b>Cliente:</b>Empresa de desenvolvimento de software Midall
 <br>
