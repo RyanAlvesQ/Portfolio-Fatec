@@ -1,4 +1,4 @@
-# Portfólio - Gabriel da Cunha de Macedo
+# Portfólio - Ryan Alves de Quadros
 
 <p align="justify">Portfólio sobre os projetos semestrais (APIs) desenvolvidos no curso de Desenvolvimento de Software Multiplataforma, apresentado na disciplina de Gestão Ágil de Projetos de Software</p>
 
