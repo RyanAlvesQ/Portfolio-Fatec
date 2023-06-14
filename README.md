@@ -1,11 +1,11 @@
 # Portfólio - Gabriel da Cunha de Macedo
 
-<p align="justify">Portfólio sobre os projetos semestrais (APIs) desenvolvidos no curso de Desenvolvimento de Software Multiplataforma, do apresentado na disciplina de Gestão Ágil de Projetos de Software</p>
+<p align="justify">Portfólio sobre os projetos semestrais (APIs) desenvolvidos no curso de Desenvolvimento de Software Multiplataforma, apresentado na disciplina de Gestão Ágil de Projetos de Software</p>
 
 ## Sobre mim
 
-<p align="justify">Meu nome é Gabriel da Cunha de Macedo, tenho 18 anos, técnico em desenvolvimento de sistemas pela ETEC Profª Ilza Nascimento Pintus, e atualmente cursando 3º Semestre de Desenvolvimento de Software Multiplataforma na FATEC Profº Jessen Vidal.</p>
-<p align="justify">Já participei de atividades extracurriculares como a Olimpíada Brasileira de Informática (OBI), maratonas de programações e hackathons, já participei de competições de robótica da FIRST atuando como programador e mentor da equipe de programação, tenho conhecimento em programação back-end em desenvolvimento web utilizando a linguagem de programação Python e o framework web Flask, banco de dados MySQL. Atualmente sou estagiário na empresa de desenvolvimento de software <a href="https://https://midall.com.br/">Midall</a>.</p>
+<p align="justify">Meu nome é Ryan Alves de Quadros, tenho 18 anos, técnico em desenvolvimento de sistemas pela ETEC Profª Ilza Nascimento Pintus, e atualmente cursando 3º Semestre de Desenvolvimento de Software Multiplataforma na FATEC Profº Jessen Vidal.</p>
+<p align="justify">Já participei de atividades extracurriculares como a Olimpíada Brasileira de Informática (OBI), tenho conhecimento em programação back-end em desenvolvimento web utilizando a linguagem de programação Python e o framework web Flask, banco de dados MySQL. Atualmente sou analista de operações na empresa que atua na consultoria de banco de dados <a href="https://www.hti.com.br/sobre-nos">HTI Tecnologia</a>.</p>
 
 ## Projetos
 
