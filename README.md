@@ -13,7 +13,7 @@
 
 <b>Link do repositório:</b> <a href="https://github.com/JulioL2001/projeto-integrador-2022-1---FATEC-DSM">Impulse Team</a>
 <br><br>
-<img src="./docs/impulse.jpg" width="100px" height="100px" align="center" alt="Logo do grupo Impulse Team" border-radius="50">
+<img src="./docs/Impulselogo.jpg" width="100px" height="100px" align="center" alt="Logo do grupo Impulse Team" border-radius="50">
 <br><br>
 <b>Cliente:</b>Cliente interno da FATEC, professor Fabrício Galende 
 <br>
