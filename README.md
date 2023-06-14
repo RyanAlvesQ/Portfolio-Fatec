@@ -13,7 +13,7 @@
 
 <b>Link do repositório:</b> <a href="https://github.com/JulioL2001/projeto-integrador-2022-1---FATEC-DSM">Impulse Team</a>
 <br><br>
-<img src="./docs/Impulselogo.png" width="250px" height="130px" align="center" alt="Logo do grupo Impulse Team" border-radius="50">
+<img src="./docs/Impulselogo.png" width="480px" height="130px" align="center" alt="Logo do grupo Impulse Team" border-radius="50">
 <br><br>
 <b>Cliente:</b>Cliente interno da FATEC, professor Fabrício Galende 
 <br>
@@ -63,9 +63,9 @@
 
 ## 2º Semestre - 2022.2
 
-<b>Link do repositório:</b><a href="https://github.com/MidNight-Tecnology/API-MidAll-2022.2">MidNight-Tecnology</a>
+<b>Link do repositório: </b><a href="https://github.com/MidNight-Tecnology/API-MidAll-2022.2">MidNight-Tecnology</a>
 <br><br>
-<img src="./docs/midlogo.png" width="250px" height="130px" align="center" alt="Logo do grupo TheSeven" border-radius="50">
+<img src="./docs/midlogo.png" width="480px" height="130px" align="center" alt="Logo do grupo MidNight" border-radius="50">
 <br><br>
 <b>Cliente:</b>Empresa de desenvolvimento de software Midall
 <br>
@@ -73,21 +73,18 @@
 
 ### <b> Problema apresentado: </b>
 
-<p align="justify">O cliente, empresa de desenvolvimento de software Midall, apresentou a necessidade de um sistema que permitisse a identificação de associados no Diário Oficial do Estado de São Paulo, e que também permitisse o gerenciamento dos associados.</p>
+<p align="justify"> O cliente, empresa de desenvolvimento de software Midall, apresentou a necessidade de um sistema que permitisse a identificação de associados no Diário Oficial do Estado de São Paulo, e que também permitisse o gerenciamento dos associados.</p>
 
 ### <b> Solução proposta: </b>
 
 <p align="justify">A solução proposta foi o desenvolvimento de um sistema web que permitisse a identificação de associados no Diário Oficial do Estado de São Paulo, e que também permitisse o gerenciamento dos associados. O sistema foi desenvolvido utilizando a linguagem de programação Javascript, o framework web React, Node.js e o banco de dados MySQL.</p>
-
-Imagem da página de um relatório:
-<br>
-<img src="./docs/relatorio_midall.jpg" width="576px" height="324px" align="center" alt="Página de relatórios do administrador">
 
 ### <b>Tecnologias utilizadas</b>
 
 <ul>
 <li><b>Figma: </b>Ferramenta de prototipação das telas</li>
 <li><b>Javascript: </b>Linguagem de programação</li>
+<li><b>Java: </b>Linguagem de programação</li>
 <li><b>React: </b>Framework web</li>
 <li><b>Node.js: </b>Framework web</li>
 <li><b>Python: </b>Linguagem de programação para a realização do web scraping</li>
@@ -97,7 +94,7 @@ Imagem da página de um relatório:
 
 ### <b>Contribuições pessoais</b>
 
-<p align="justify">Desempenhei o papel de Desenvolvedor, sendo responsável por desenvolver o bot que realiza o web scraping no Diário Oficial do Estado de São Paulo, baixando todas as páginas, transformando em pdf, juntando as páginas em cadernos, e por fim, guardando no banco de dados MySQL os parágrafos aonde os associados são citados. Também ajudei os membros do grupo com as tasks que eles tinham dificuldade como na criação de rotas e a conexão com o banco de dados. </p>
+<p align="justify">Desempenhei o papel de Desenvolvedor, sendo responsável por desenvolver o bot que realiza o web scraping no Diário Oficial do Estado de São Paulo, baixando todas as páginas, transformando em pdf, juntando as páginas em cadernos. </p>
 
 ### <b> Hard Skills </b>
 
@@ -105,20 +102,21 @@ Imagem da página de um relatório:
 <li><b>Python: </b>Aprendi a realizar web scraping, a manipular arquivos pdf, a manipular strings</li>
 <li><b>MySQL: </b>Aprendi a conectar o banco de dados com o backend, criar tabelas, inserir dados, manipular dados</li>
 <li><b>Node.js: </b>Aprendi a criar rotas, logar no sistema, renderizar templates</li>
+<li><b>Python: </b>Aprendi a realizar autoclicks e direcionar o navegador para uma página específica</li>
 </ul>
 
 ### <b> Soft Skills </b>
 
 <ul>
-<li><b>Resoluções de problemas: </b>Ao lidar com o web scraping, tive que resolver problemas como a manipulação de arquivos pdf e a manipulação de strings, encontrando soluções para esses problemas</li>
+<li><b>Resoluções de problemas: </b>Ao lidar com o web scraping, tive que resolver problemas como entrar na página desejada, pegar as informações e juntá-las em um arquivo .pdf por python, encontrando soluções para esses problemas</li>
 <li><b>Adaptabilidade: </b>Tive que me adaptar a diferentes situações, como lidar com a mudança de requisitos do cliente</li>
 </ul>
 
 ## 3º Semestre - 2023.1
 
-<b>Link do repositório:</b><a href="https://github.com/CopiloTTeam/documentacao">CopiloTTeam</a>
+<b>Link do repositório: </b><a href="https://github.com/Equipe-Ace/Ace-documentation">Equipe Ace</a>
 <br><br>
-<img src="./docs/copilotteam.jpg" width="100px" height="100px" align="center" alt="Logo do grupo CopiloTTeam" border-radius="50">
+<img src="./docs/ace.png" width="100px" height="100px" align="center" alt="Logo da Equipe Ace" border-radius="50">
 <br><br>
 <b>Cliente:</b>Empresa de desenvolvimento de software Pro4Tech
 <br>
