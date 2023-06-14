@@ -13,7 +13,7 @@
 
 <b>Link do repositório:</b> <a href="https://github.com/JulioL2001/projeto-integrador-2022-1---FATEC-DSM">Impulse Team</a>
 <br><br>
-<img src="./docs/Impulselogo.png" width="480px" height="130px" align="center" alt="Logo do grupo Impulse Team" border-radius="50">
+<img src="./docs/Impulselogo.png" width="320px" height="130px" align="center" alt="Logo do grupo Impulse Team" border-radius="50">
 <br><br>
 <b>Cliente:</b>Cliente interno da FATEC, professor Fabrício Galende 
 <br>
@@ -65,7 +65,7 @@
 
 <b>Link do repositório: </b><a href="https://github.com/MidNight-Tecnology/API-MidAll-2022.2">MidNight-Tecnology</a>
 <br><br>
-<img src="./docs/midlogo.png" width="480px" height="130px" align="center" alt="Logo do grupo MidNight" border-radius="50">
+<img src="./docs/mid.jpg" width="150px" height="150px" align="center" alt="Logo do grupo MidNight" border-radius="50">
 <br><br>
 <b>Cliente:</b>Empresa de desenvolvimento de software Midall
 <br>
@@ -116,11 +116,11 @@
 
 <b>Link do repositório: </b><a href="https://github.com/Equipe-Ace/Ace-documentation">Equipe Ace</a>
 <br><br>
-<img src="./docs/ace.png" width="100px" height="100px" align="center" alt="Logo da Equipe Ace" border-radius="50">
+<img src="./docs/ace.png" width="150px" height="150px" align="center" alt="Logo da Equipe Ace" border-radius="50">
 <br><br>
-<b>Cliente:</b>Empresa de desenvolvimento de software Pro4Tech
+<b>Cliente: </b>Empresa de desenvolvimento de software Pro4Tech
 <br>
-<b>Tema:</b>Desenvolvimento de um sistema de gestão financeira e comercial com automatização de processos, cadastro de clientes, gestão de títulos e parcelas.
+<b>Tema :</b>Desenvolvimento de um sistema de gestão financeira e comercial com automatização de processos, cadastro de clientes, gestão de títulos e parcelas.
 
 ### <b> Problema apresentado: </b>
 
