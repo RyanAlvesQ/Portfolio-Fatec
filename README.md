@@ -130,9 +130,7 @@
 
 <p align="justify">A solução proposta foi o desenvolvimento de um sistema abrangente que inclui cadastro de clientes e gestão de títulos com parcelas, integrando-se à API dos correios para facilitar a inserção de dados de endereço. Com a capacidade de processar parcelas automaticamente, o sistema promove maior agilidade e eficiência.</p>
 
-Imagem da página relatórios de parcelas:
 <br>
-<img src="./docs/pro4tech.jpg" width="576px" height="324px" align="center" alt="Página de parcelas do sistema">
 
 ### <b>Tecnologias utilizadas</b>
 
@@ -143,24 +141,23 @@ Imagem da página relatórios de parcelas:
 <li><b>Java: </b>Linguagem de programação utilizada no back-end</li>
 <li><b>Spring Boot: </b>Framework web em Java</li>
 <li><b>MySQL: </b>Banco de dados relacional</li>
-<li><b>Trello: </b>Ferramenta para gerenciamento de tarefas</li>
+<li><b>Jira: </b>Ferramenta para gerenciamento de tarefas</li>
 </ul>
 
 ### <b>Contribuições pessoais</b>
 
-<p align="justify">Mais uma vez, desempenhei o papel de Desenvolvedor, sendo responsável pelo desenvolvimento do backend do sistema utilizando a linguagem de programação Java e o framework Spring Boot. Além disso, auxiliei e executei tarefas no frontend, utilizando a linguagem de programação TypeScript e o framework React, principalmente na implementação da lógica da página de parcelas, relatórios e dos gráficos.</p>
+<p align="justify">Desempenhei o papel de Desenvolvedor, sendo responsável pelo desenvolvimento do front-end do sistema utilizando a linguagem de programação TypeScript em conjunto com o framework web React. Implementei as telas da aplicação seguindo os conceitos de UI e UX para uma melhor experiência ao navegar pelas interfaces.</p>
 
 ### <b> Hard Skills </b>
 
 <ul>
-<li><b>Java: </b>Aprendi manipular dados, conectar o banco de dados, criar classes, métodos, interfaces, etc</li>
-<li><b>Spring Boot: </b>Aprendi a criar rotas, retornar dados, conectar banco de dados</li>
 <li><b>TypeScript: </b>Aprendi a criar rotas, telas e a manipular dados</li>
+<li><b>React: </b>Aprendi a buscar dados do banco e mostrá-los na interface, além de seguir as necessidades/requisitos impostos pelo cliente na parte da interface </li>
 </ul>
 
 ### <b> Soft Skills </b>
 
 <ul>
-<li><b>Gestão de tempo: </b>Tive que gerenciar meu tempo para conseguir realizar as tarefas do frontend e do backend</li>
+<li><b>Gestão de tempo: </b>Tive que gerenciar meu tempo para conseguir realizar as tarefas do frontend</li>
 <li><b>Resiliência: </b>Tive que lidar com a pressão de entregar as tarefas no prazo e superar as dificuldades que surgiram durante as entregas das sprints</li>
 <ul>
