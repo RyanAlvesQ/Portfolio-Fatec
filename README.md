@@ -146,13 +146,15 @@
 
 ### <b>Contribuições pessoais</b>
 
-<p align="justify">Desempenhei o papel de Desenvolvedor, sendo responsável pelo desenvolvimento do front-end do sistema utilizando a linguagem de programação TypeScript em conjunto com o framework web React. Implementei as telas da aplicação seguindo os conceitos de UI e UX para uma melhor experiência ao navegar pelas interfaces.</p>
+<p align="justify">Desempenhei o papel de Desenvolvedor, sendo responsável pelo desenvolvimento do front-end do sistema utilizando a linguagem de programação TypeScript em conjunto com o framework web React. Implementei as telas da aplicação seguindo os conceitos de UI e UX para uma melhor experiência ao navegar pelas interfaces. Tive que melhorar minha gestão de tempo para desenvolver o projeto integrador pois comecei a trabalhar com banco de dados em uma empresa de tecnologia neste semestre.<br>
+O cliente em questão solicitou novos requisitos conforme o passar das sprints, nosso time precisou se adaptar e planejar como os entregariamos de forma que satisfizesse nosso cliente e conseguimos. Houveram alguns deslizes durante as primeiras sprints em relação a documentação, mas aprendemos com os erros e orientações do professor Sakaue, cumprindo os padrões corretos de documentação nas sprints posteriores. <br>
+No geral, consegui melhorar tanto minhas hard skills quanto soft skills neste semestre e compreender melhor a dor de nosso cliente, conseguindo assim, apresentar uma melhor solução no produto final. </p>
 
 ### <b> Hard Skills </b>
 
 <ul>
-<li><b>TypeScript: </b>Aprendi a criar rotas, telas e a manipular dados</li>
-<li><b>React: </b>Aprendi a buscar dados do banco e mostrá-los na interface, além de seguir as necessidades/requisitos impostos pelo cliente na parte da interface </li>
+<li><b>TypeScript: </b>Por não compreender direito os conceitos de UI e UX no começo do semestre e não possuir familiaridade com linguagens front-end de maneira efetiva, depois de muita pesquisa, aprendi a criar rotas, telas e a manipular dados através de TypeScript, aprendi bastante sobre a linguagem e consegui aprender bastante com meus colegas de classe. </li>
+<li><b>React: </b>Aprendi a buscar informações no dados do banco e mostrá-los na interface (coisa que tive dificuldade no primeiro e segundo semestre), além de seguir as necessidades/requisitos impostos pelo cliente na parte da interface, consegui agradar o cliente com uma navegação fluida e interativa depois de aplicar conceitos de UI e UX. </li>
 </ul>
 
 ### <b> Soft Skills </b>
