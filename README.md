@@ -160,6 +160,6 @@ No geral, consegui melhorar tanto minhas hard skills quanto soft skills neste se
 ### <b> Soft Skills </b>
 
 <ul>
-<li><b>Gestão de tempo: </b>Tive que gerenciar meu tempo para conseguir realizar as tarefas do frontend</li>
-<li><b>Resiliência: </b>Tive que lidar com a pressão de entregar as tarefas no prazo e superar as dificuldades que surgiram durante as entregas das sprints</li>
+<li><b>Gestão de tempo: </b>Tive que gerenciar meu tempo para conseguir realizar as tarefas do frontend depois de conseguir um emprego na área de tecnologia (o que deixou meu tempo muito escasso). </li>
+<li><b>Resiliência: </b>Tive que lidar com a pressão de entregar as tarefas no prazo e superar as dificuldades que surgiram durante as entregas das sprints pois o cliente solicitou muitos requisitos além dos impostos na documentação do projeto, fazendo com que tivessemos que melhorar nosso lado autodidata e lapidar melhor nossa convivência como grupo de forma geral.</li>
 <ul>
